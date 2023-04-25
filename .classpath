@@ -8,5 +8,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="SnakeLadder"/>
 	<classpathentry kind="src" path="Splitwise"/>
+	<classpathentry kind="src" path="AppVersionManagement"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
